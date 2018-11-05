@@ -1,0 +1,1 @@
+echo 10.10.5.161 mdfs-rx.pd.cp.hxdi.cn >> C:\WINDOWS\system32\drivers\etc\hosts
